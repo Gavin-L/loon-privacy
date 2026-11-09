@@ -1,0 +1,33 @@
+
+# Personal Anti-Tracking for Loon
+# Version: 1.0
+# Policy: REJECT
+
+# AppsFlyer
+DOMAIN,inapps.appsflyer.com
+DOMAIN,launches.appsflyer.com
+
+# Google Ads
+DOMAIN,g.doubleclick.net
+DOMAIN,googleads.g.doubleclick.net
+DOMAIN,pubads.g.doubleclick.net
+DOMAIN,pagead2.googlesyndication.com
+
+# AppLovin and Unity Ads
+DOMAIN,ms4.applovin.com
+DOMAIN,gateway.unityads.unity3d.com
+DOMAIN,unityads.unity3d.com
+DOMAIN,wv.inner-active.mobi
+
+# Tencent Ads
+DOMAIN,gdt.qq.com
+DOMAIN,e.qq.com
+
+# Pangle
+DOMAIN,api-access.pangolin-sdk-toutiao.com
+DOMAIN,log-api.pangolin-sdk-toutiao.com
+
+# Analytics
+DOMAIN,ulogs.umeng.com
+DOMAIN,analytics.twitter.com
+  
